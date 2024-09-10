@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumojit08&label=Profile%20views&color=0ae65e&style=flat-square" alt="soumojit08" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumojit08" alt="soumojit08" /></a> </p>
-
 - 🔭 I’m currently working on **A Nodejs app to track expenses**
 
 - 🌱 I’m currently learning **Advanced JavaScript frameworks and new web technologies.**
@@ -31,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumojit08&show_icons=true&theme=dark&hide_border=true&locale=en" alt="soumojit08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumojit08&theme=dark" alt="soumojit08" /></p>
-
