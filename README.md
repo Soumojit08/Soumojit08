@@ -69,15 +69,11 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/soumojit08/soumojit08/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h6 align="center">Hello Thanks for visiting || Follow if u like my profile!!</h6>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=soumojit08.soumojit08&"  />
