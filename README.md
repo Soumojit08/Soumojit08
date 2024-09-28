@@ -1,82 +1,113 @@
-<h2 align="left">Hi 👋! My name is Soumojit Banerjee and I'm a Software Engineer, from India, West Bengal, Kolkata</h2>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-###
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h1 style="display: inline-block">Hi 👋, I'm Soumojit Banerjee</h1>
+    </summary>
+  </ul>
+</div>
 
+<!--- snake -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumojit08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Soumojit's%20Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=soumojit08&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumojit08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://camo.githubusercontent.com/caf7ccb8a124aa52bc28475ca9eaee84f6342c3d25501aed496f39dbe0c0a3ac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d474e715a6a63354f446831624449334d54467763323030625867786158426c626d4d78596a46764d6a566e595464715a5864365a535a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f4c384b36326954446b7a4758362f67697068792e676966">
 </div>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">Confusion is part of Programming</h2>
+    </summary>
+  </ul>
 </div>
 
-###
+<!--Intro start-->
+- 🔭 I’m currently working on **DSA Projects**
 
-<br clear="both">
+- 🌱 I’m currently learning **DSA with C++**
 
-<img align="right" height="180" src="https://camo.githubusercontent.com/caf7ccb8a124aa52bc28475ca9eaee84f6342c3d25501aed496f39dbe0c0a3ac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d474e715a6a63354f446831624449334d54467763323030625867786158426c626d4d78596a46764d6a566e595464715a5864365a535a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f4c384b36326954446b7a4758362f67697068792e676966"  />
+- ☁️ I've keen interest in web development. So,I've learned **Frontend-development & Backend**
 
-###
+- 📝 I plan to be regular on [Hashnode](https://hashnode.com/@Soumojit08)
 
-<div align="left">
-  <a href="https://www.instagram.com/soumojit___08" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="instagram logo"  />
+- 💬 Ask me about **Anime or Coding**
+
+- 📫 Feel free to reach me out **soumojitbanerjee08@gmail.com**
+
+<!--Intro end-->
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+  <tr border="none">
+    <td width=50% align="center">
+      <img src="https://streak-stats.demolab.com?user=Soumojit08&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    </td>
+    <td width=50% align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumojit08&layout=compact&theme=dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+    <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </a>
-  <a href="soumojitbanerjee08@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="gmail logo"  />
+</div>
+<!--- trophy (start) -->
+
+</p>
+<!--- stats (end) -->
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
+    </summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,express,figma,firebase,github,html,js,mongodb,mysql,nextjs,nodejs,py,react,tailwind,ts,vscode&perline=14" />
   </a>
-  <a href="https://www.linkedin.com/in/soumojit-banerjee-729080281/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="facebook logo"  />
+</p>
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">Connect With Me🤝</h2>
+    </summary>
+  </ul>
 </div>
 
-###
+<!--icons and links-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/soumojit-banerjee-729080281/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://www.instagram.com/soumojit___08/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+  <a href="https://hashnode.com/@Soumojit08" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+</p>
 
-<h6 align="center">Hello Thanks for visiting || Follow if u like my profile!!</h6>
-
-###
-
-<br clear="both">
-
+<!--profile visit count-->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=soumojit08.soumojit08&"  />
+
+  [![](https://visitcount.itsvg.in/api?id=Soumojit08&icon=3&color=6)](https://visitcount.itsvg.in)
+
 </div>
 
-###
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
+Credit: [Soumojit Banerjee](https://github.com/Soumojit08)
+
+Last Edited on: 28 / 09 / 2024
