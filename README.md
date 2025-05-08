@@ -25,9 +25,9 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **DSA Projects**
+- 🔭 I’m currently working on **Web Dev Projects**
 
-- 🌱 I’m currently learning **DSA with C++**
+- 🌱 I’m currently learning **DSA with JAVA**
 
 - ☁️ I've keen interest in web development. So,I've learned **Frontend-development & Backend**
 
