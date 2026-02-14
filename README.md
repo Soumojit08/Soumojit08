@@ -31,9 +31,9 @@
 
 - ☁️ I've keen interest in web development. So,I've learned **Frontend-development & Backend**
 
-- 📝 I plan to be regular on [Hashnode](https://hashnode.com/@Soumojit08)
+- 📝 I plan to be regular on [Linkedin](https://www.linkedin.com/in/soumojit-banerjee/)
 
-- 💬 Ask me about **Anime or Coding**
+- 💬 Ask me about **About Anything You have on your mind**
 
 - 📫 Feel free to reach me out **soumojitbanerjee08@gmail.com**
 
@@ -76,7 +76,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,express,figma,firebase,github,html,js,mongodb,mysql,nextjs,nodejs,py,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,java,css,express,figma,firebase,html,js,mongodb,postgresql,nextjs,nodejs,py,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
@@ -110,4 +110,4 @@
 ----------------------------------------------------------------------
 Credit: [Soumojit Banerjee](https://github.com/Soumojit08)
 
-Last Edited on: 28 / 09 / 2024
+Last Edited on: 14 / 02 / 2026
